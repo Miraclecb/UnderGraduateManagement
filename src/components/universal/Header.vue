@@ -19,7 +19,6 @@
         <button @click="toBBS">论坛圈子</button>
       </div>
       <div class="user">
-
       </div>
     </div>
     <div class="overlay"
